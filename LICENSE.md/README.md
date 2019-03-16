@@ -1,14 +1,14 @@
-sergioro.com
+sergioro9.github.io
 ============
 
-#BRIEF
+# BRIEF
 
 Github website of sergio. the most terrible software developer ever (TMTSDE).
 
-#AUTHOR
+# AUTHOR
 
 TMTSDE
 
-#CONTRIBUTORS
+# CONTRIBUTORS
 
 TMTSDE
