@@ -3,7 +3,7 @@ sergioro9.github.io
 
 ### BRIEF
 
-Github website of sergio. the most terrible software developer ever (TMTSDE).
+Github website of sergio.
 
 ### AUTHOR
 
