@@ -7,8 +7,8 @@ Github website of sergio.
 
 ### AUTHOR
 
-TMTSDE
+-
 
 ### CONTRIBUTORS
 
-TMTSDE
+-
